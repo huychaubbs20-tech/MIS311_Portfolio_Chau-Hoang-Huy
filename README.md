@@ -24,8 +24,6 @@ This project analyzes the Most Visited Countries dataset to uncover trends in in
 * **most_visited_countries.xlsx** – dataset
 * **images/** – folder containing visualizations:
 
-  * `top10_predicted_2024.png`
-  * `top5_trend_2022_2024.png`
 
 ## Data Cleaning Summary
 
