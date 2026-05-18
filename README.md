@@ -7,7 +7,7 @@ This project analyzes the Most Visited Countries dataset to uncover trends in in
 ## Dataset Details
 
 * **Source:** Provided for MIS 311 assignment.
-* **Number of Rows:** [Insert number of countries]
+* **Number of Rows:** 17
 * **Number of Columns:** 6
 * **Columns:**
 
@@ -45,9 +45,7 @@ This project analyzes the Most Visited Countries dataset to uncover trends in in
 ## Visualizations
 
 1. **Top 10 Countries by Predicted Arrivals 2024**
-   ![Top 10 Predicted 2024](images/top10_predicted_2024.png)
 2. **Trend of International Arrivals for Top 5 Countries 2022-2024**
-   ![Top 5 Trend 2022-2024](images/top5_trend_2022_2024.png)
 
 ## Tools Used
 
@@ -57,9 +55,3 @@ This project analyzes the Most Visited Countries dataset to uncover trends in in
 * seaborn
 
 ---
-
-**Author:** Chau Hoang Huy
-**IRN:** 2032300074
-**GitHub Portfolio Link:** [https://github.com/huychaubbs20-tech](https://github.com/huychaubbs20-tech)
-
-
