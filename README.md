@@ -21,8 +21,8 @@ This project analyzes the Most Visited Countries dataset to uncover trends in in
 ## Project Structure
 
 * **README.md** – this file explaining the project
-* **most_visited_countries.xlsx** – dataset
-* **images/** – folder containing visualizations:
+* **07_Most Visited Countries.xlxx** – dataset
+* **images** – folder containing visualizations:
 
 
 ## Data Cleaning Summary
