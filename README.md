@@ -36,9 +36,10 @@ This project analyzes the Most Visited Countries dataset to uncover trends in in
 
 ## Key Findings / Insights
 
-1. The United States, Mexico, and Germany are predicted to remain the most visited countries in 2024, reflecting consistent tourism demand.
-2. Most top countries show a strong growth trend from 2022 to 2024, suggesting a recovery in international travel post-pandemic.
-3. Some countries like Egypt show fluctuations in arrivals across years, indicating sensitivity to regional or global events.
+Insight 1:
+The average predicted arrivals for 2024 is 38.32 million, indicating strong demand for international travel. Countries like the United States and Mexico are outliers with significantly higher values, showing their dominant tourism position.
+Insight 2:
+Comparing 2022 and 2023 arrivals, the mean growth indicates recovery in global tourism after the pandemic. Some countries show fluctuations, suggesting sensitivity to regional or global events.
 
 ## Visualizations
 
