@@ -38,6 +38,7 @@ This project analyzes the Most Visited Countries dataset to uncover trends in in
 
 Insight 1:
 The average predicted arrivals for 2024 is 38.32 million, indicating strong demand for international travel. Countries like the United States and Mexico are outliers with significantly higher values, showing their dominant tourism position.
+
 Insight 2:
 Comparing 2022 and 2023 arrivals, the mean growth indicates recovery in global tourism after the pandemic. Some countries show fluctuations, suggesting sensitivity to regional or global events.
 
